@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AETS/static/css/main.322e5039.css",
+    "main.js": "/AETS/static/js/main.37a9432d.js",
+    "index.html": "/AETS/index.html",
+    "main.322e5039.css.map": "/AETS/static/css/main.322e5039.css.map",
+    "main.37a9432d.js.map": "/AETS/static/js/main.37a9432d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322e5039.css",
+    "static/js/main.37a9432d.js"
+  ]
+}
